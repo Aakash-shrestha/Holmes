@@ -9,5 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# environments
+.env
+
+#ai
 CLAUDE.md
 HOLMES_BRIEF.md
