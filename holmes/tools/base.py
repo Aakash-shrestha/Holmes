@@ -7,4 +7,4 @@ class Tool:
     name: str
     description: str
     parameters: dict
-    fun: Callable
+    func: Callable
