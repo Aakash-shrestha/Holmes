@@ -21,6 +21,7 @@ def run(client, df, goal):
 
         if not response.function_calls:
             done = True
+
             final_answer = response.text
         else:
             for call in response.function_calls:

@@ -8,7 +8,7 @@ from holmes.agent.loop import run
 
 
 def main():
-    parser = argparse.ArgumentPaser(
+    parser = argparse.ArgumentParser(
         description="Holmes: A tool for analyzing and visualizing data."
     )
 
